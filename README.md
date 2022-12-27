@@ -40,9 +40,6 @@
 
 <p align="center">
     <a href="https://reactjs.org/" target="_blank">
-        <img alt="React" src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
         <img alt="Typescript" src="https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </a>
     <a href="https://www.djangoproject.com/">
