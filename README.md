@@ -5,7 +5,7 @@
 
 👋 My name is Mindong Choi<br>
 🏗️ SNU CEE & IMAI <br>
-🔥 Intersted in every field of AI <br>
+🔥 Into every field of AI <br>
 🌱 Learning React, React Native, Django <br>
 📨 Contact me on [Gmail](mailto:mindongss@snu.ac.kr) <br>
 </div>
