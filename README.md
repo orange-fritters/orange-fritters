@@ -21,12 +21,6 @@
    <a href="https://pytorch.org/" target="_blank">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
-<a href="https://numpy.org/">
-        <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    </a>
-<a href="https://pandas.pydata.org/">
-        <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    </a>
     <a href="https://www.javascript.com/" target="_blank">
         <img alt="JS" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
