@@ -22,7 +22,7 @@
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
     <a href="https://www.javascript.com/" target="_blank">
-        <img alt="JS" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
         </a>
 
 </p>
@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://reactjs.org/" target="_blank">
-        <img alt="Typescript" src="https://img.shields.io/badge/React_native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img alt="react" src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />
     </a>
     <a href="https://www.djangoproject.com/">
         <img alt="Django" src="https://img.shields.io/badge/Django-FF7F00?style=for-the-badge&logo=django&logoColor=white">
