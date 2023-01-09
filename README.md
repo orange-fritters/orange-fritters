@@ -13,6 +13,9 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
@@ -33,18 +36,8 @@
   <a href="https://pandas.pydata.org/">
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  </a>
   <br>
-  🤖 ML/DL Libraries <br>⌨️ Getting Used to React <br></p>
-</div><br>
-
-<div align='center'>
-
-## 👨‍💻Learning
-
-<p align="center">
+  🤖 ML/DL Libraries <br></p>
   <p>
     <a>
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -52,12 +45,22 @@
     <a>
       <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     </a>
+    <a href="https://reactjs.org/" target="_blank">
+      <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </a>
     <a>
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </a><br>
-    💻 MERN Stuff <br>
-    📲 Learning Express as Backend Framework <br>
+    💻 Little Bit of MERN Stuffs <br>
+    📲 Getting Used to Web Development <br>
   </p>
+</div><br>
+
+<div align='center'>
+
+## 👨‍💻Learning
+
+<p align="center">
   <p>
     <a>
       <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
