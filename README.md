@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🔥 Into every field of AI <br> 🌱 Learning React, React Native, Django <br> 📨 Contact me on [Gmail](mailto:mindongss@snu.ac.kr) <br>
+👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🔥 Into every field of AI <br> 🌱 Learning Web Development Stacks for MLOps <br> 📨 Contact me on [Gmail](mailto:mindongss@snu.ac.kr) <br>
 
 </div>
 <br>
