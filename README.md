@@ -54,14 +54,7 @@
     💻 Little Bit of MERN Stuffs <br>
     📲 Getting Used to Web Development <br>
   </p>
-</div><br>
-
-<div align='center'>
-
-## 👨‍💻Learning
-
-<p align="center">
-  <p>
+ <p>
     <a>
       <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
@@ -80,7 +73,14 @@
     <br>
     🔥 Backend Stuff <br>
   </p>
+</div><br>
+<p align="center">
+  
 </p>
+<div align='center'>
+
+
+
 
 </div><br>
 
