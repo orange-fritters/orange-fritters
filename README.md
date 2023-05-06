@@ -1,8 +1,8 @@
  <div align="center">
 
-## Hi there 👋
+## 👋 Hi there
 
-👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🔥 Into every field of AI <br> 🌱 Learning Web Development Stacks for MLOps <br> 📨 Contact me on [Gmail](mailto:mindongss@snu.ac.kr) <br>
+👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🔥 Into every field of AI (Graphs, Video, LLM) <br> 🌱 AI generalist with web development skills<br>
 
 </div>
 <br>
@@ -13,20 +13,26 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://devdocs.io/cpp/" target="_blank">
+  <img alt="cpp" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
-  <a>
-    <img alt="sh" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   <br>
-  🐍 Python Addict <br>⌨️ Getting Used to JS <br>
+  🐍 Python Addict <br>⌨️ Web Languages and ETC. <br>
 <p align="center">
   <a href="https://pytorch.org/" target="_blank">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+  <a href="https://www.tensorflow.org/?hl=ko" target="_blank">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   <a>
     <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -51,15 +57,12 @@
     <a>
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </a><br>
-    💻 Little Bit of MERN Stuffs <br>
-    📲 Getting Used to Web Development <br>
+    💻 MERN Stuffs <br>
+    📲 Web Development <br>
   </p>
  <p>
     <a>
       <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </a>
-    <a>
-      <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
     </a>
     <br>
     📱 React Advanced <br>
@@ -71,16 +74,13 @@
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
     </a>
     <br>
-    🔥 Backend Stuff <br>
+    🔥 Backend Stuffs <br>
   </p>
 </div><br>
 <p align="center">
   
 </p>
 <div align='center'>
-
-
-
 
 </div><br>
 
