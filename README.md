@@ -2,13 +2,22 @@
 
 ## 👋 Hi there
 
-👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🔥 Into every field of AI (Graphs, Video, LLM) <br> 🌱 AI generalist with web development skills<br>
+👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills<br> <br>
+
+## ❓ Resume
+
+### [CHECK OUT MY RESUME](./mindong_resume.pdf)<br>
+
+### [GOOGLE DRIVE](https://drive.google.com/file/d/1Wl47kQXCe9j9zlymifcg2J8Y5_sbDFbe)
 
 </div>
 <br>
+<br>
+
  <div align="center">
- 
-## 💻  Language
+
+## 💻 Tech Stacks
+
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,7 +35,6 @@
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   <br>
-  🐍 Python Addict <br>⌨️ Web Languages and ETC. <br>
 <p align="center">
   <a href="https://pytorch.org/" target="_blank">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -43,7 +51,6 @@
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
   <br>
-  🤖 ML/DL Libraries <br></p>
   <p>
     <a>
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -57,16 +64,11 @@
     <a>
       <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     </a><br>
-    💻 MERN Stuffs <br>
-    📲 Web Development <br>
   </p>
  <p>
     <a>
       <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
-    <br>
-    📱 React Advanced <br>
-  <p>
     <a>
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
     </a>
@@ -74,14 +76,31 @@
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
     </a>
     <br>
-    🔥 Backend Stuffs <br>
   </p>
 </div><br>
 <p align="center">
   
 </p>
-<div align='center'>
 
 </div><br>
+<div align='center'>
+
+## 🔥Projects
+
+<br>
+
+<!-- prettier-ignore-start -->
+| <center>Project | <center>Description |
+| --- | --- | 
+| <div style="width:300px">[Real Time Squat Classifier Using MediaPipe](https://github.com/orange-fritters/real-time-squat-classifier)</div> | <div style="width:400px"> Client-side rendering service that evaluates squat posture using seven different labels. Developed a Flow for classifying real-time Pose Video data from a webcam input on a browser using the MediaPipe framework. **\#BrowserAI \#VideoAI \#Mediapipe #AIaaS**</div> |
+| <div style="width:300px">[MRI Reconstruction AI for Fast MRI Challenge](https://github.com/orange-fritters/fast-mri)</div> | <div style="width:400px">  3rd place winner in the fastMRI 2022, the largest AI modeling competition at SNU. Built a model combining E2E-Varnet and RCAN. Trained and inference of large-size AI models in 8GB GPU by applying various model memory optimization techniques. **#MemorySaving #Pytorch** </div> |
+| <div style="width:300px">[Change Detection & Climate Detection AI for PlanetA Challenge](https://github.com/orange-fritters/planet-a)</div> | <div style="width:400px">1st place winner in the PlanetA 2022, an AI modeling competition for solving natural science problems at SNU. Built multi-modal siamese nested unet to solve change detection problem. Applied an UNet++ model to detect atmospheric river. **\#AIModeling** </div> |
+| <div style="width:300px">[Recommendation & NLP based E-Commerce Website](https://github.com/augustinLib/bitamin-conference) </div> | <div style="width:400px">Responsible for web development of a AIaaS demo site for a fashion item recommendation and review summarization. Developed the front-end of the site using React JS, back-end using MongoDB and Express, and built a model server with FastAPI. **#AIaaS #WebDevelopment**</div> |
+| <div style="width:300px">[Algorithm for Locating Elderly Leisure Facilities based on Graphs](https://github.com/orange-fritters/urban-design)</div> | <div style="width:400px">Selection of optimal locations for elderly leisure facilities in Gwanak-gu. Constructed a pedestrian network and embedded various variables. Designed an objective function using matrix operations. Used genetic algorithm to obtain the optimal location. **#Graph #GeneticAlgorithm #MCLP**</div> |
+<!-- prettier-ignore-end -->
+
+</div>
+<br><br>
+ <div align="center">
 
 <div align='center'>
