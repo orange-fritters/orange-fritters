@@ -4,15 +4,14 @@
 
 👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills<br> <br>
 
-## ❓ Resume
+## ❓ Resume 
 
-### [CHECK OUT MY RESUME](./mindong_resume.pdf)<br>
+#### [CHECK OUT MY RESUME](./mindong_resume.pdf) [🔗](https://drive.google.com/file/d/1Wl47kQXCe9j9zlymifcg2J8Y5_sbDFbe)
 
-### [GOOGLE DRIVE](https://drive.google.com/file/d/1Wl47kQXCe9j9zlymifcg2J8Y5_sbDFbe)
 
 </div>
 <br>
-<br>
+
 
  <div align="center">
 
@@ -77,7 +76,7 @@
     </a>
     <br>
   </p>
-</div><br>
+</div>
 <p align="center">
   
 </p>
@@ -92,11 +91,11 @@
 <!-- prettier-ignore-start -->
 | <center>Project | <center>Description |
 | --- | --- | 
-| <div style="width:300px">[Real Time Squat Classifier Using MediaPipe](https://github.com/orange-fritters/real-time-squat-classifier)</div> | <div style="width:400px"> Client-side rendering service that evaluates squat posture using seven different labels. Developed a Flow for classifying real-time Pose Video data from a webcam input on a browser using the MediaPipe framework. **\#BrowserAI \#VideoAI \#Mediapipe #AIaaS**</div> |
-| <div style="width:300px">[MRI Reconstruction AI for Fast MRI Challenge](https://github.com/orange-fritters/fast-mri)</div> | <div style="width:400px">  3rd place winner in the fastMRI 2022, the largest AI modeling competition at SNU. Built a model combining E2E-Varnet and RCAN. Trained and inference of large-size AI models in 8GB GPU by applying various model memory optimization techniques. **#MemorySaving #Pytorch** </div> |
-| <div style="width:300px">[Change Detection & Climate Detection AI for PlanetA Challenge](https://github.com/orange-fritters/planet-a)</div> | <div style="width:400px">1st place winner in the PlanetA 2022, an AI modeling competition for solving natural science problems at SNU. Built multi-modal siamese nested unet to solve change detection problem. Applied an UNet++ model to detect atmospheric river. **\#AIModeling** </div> |
-| <div style="width:300px">[Recommendation & NLP based E-Commerce Website](https://github.com/augustinLib/bitamin-conference) </div> | <div style="width:400px">Responsible for web development of a AIaaS demo site for a fashion item recommendation and review summarization. Developed the front-end of the site using React JS, back-end using MongoDB and Express, and built a model server with FastAPI. **#AIaaS #WebDevelopment**</div> |
-| <div style="width:300px">[Algorithm for Locating Elderly Leisure Facilities based on Graphs](https://github.com/orange-fritters/urban-design)</div> | <div style="width:400px">Selection of optimal locations for elderly leisure facilities in Gwanak-gu. Constructed a pedestrian network and embedded various variables. Designed an objective function using matrix operations. Used genetic algorithm to obtain the optimal location. **#Graph #GeneticAlgorithm #MCLP**</div> |
+| [Real Time Squat Classifier Using MediaPipe](https://github.com/orange-fritters/real-time-squat-classifier) | Client-side rendering service that evaluates squat posture using seven different labels. Developed a Flow for classifying real-time Pose Video data from a webcam input on a browser using the MediaPipe framework. **\#BrowserAI \#VideoAI \#Mediapipe #AIaaS** |
+| [MRI Reconstruction AI for Fast MRI Challenge](https://github.com/orange-fritters/fast-mri) | 3rd place winner in the fastMRI 2022, the largest AI modeling competition at SNU. Built a model combining E2E-Varnet and RCAN. Trained and inference of large-size AI models in 8GB GPU by applying various model memory optimization techniques. **#MemorySaving #Pytorch** |
+| [Change Detection & Climate Detection AI for PlanetA Challenge](https://github.com/orange-fritters/planet-a)| 1st place winner in the PlanetA 2022, an AI modeling competition for solving natural science problems at SNU. Built multi-modal siamese nested unet to solve change detection problem. Applied an UNet++ model to detect atmospheric river. **\#AIModeling** |
+| [Recommendation & NLP based E-Commerce Website](https://github.com/augustinLib/bitamin-conference)| Responsible for web development of a AIaaS demo site for a fashion item recommendation and review summarization. Developed the front-end of the site using React JS, back-end using MongoDB and Express, and built a model server with FastAPI. **#AIaaS #WebDevelopment** |
+| [Algorithm for Locating Elderly Leisure Facilities based on Graphs](https://github.com/orange-fritters/urban-design) | Selection of optimal locations for elderly leisure facilities in Gwanak-gu. Constructed a pedestrian network and embedded various variables. Designed an objective function using matrix operations. Used genetic algorithm to obtain the optimal location. **#Graph #GeneticAlgorithm #MCLP** |
 <!-- prettier-ignore-end -->
 
 </div>
