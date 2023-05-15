@@ -4,14 +4,12 @@
 
 👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills<br> <br>
 
-## ❓ Resume 
+## ❓ Resume
 
 #### [CHECK OUT MY RESUME](./mindong_resume.pdf) [🔗](https://drive.google.com/file/d/1Wl47kQXCe9j9zlymifcg2J8Y5_sbDFbe)
 
-
 </div>
 <br>
-
 
  <div align="center">
 
