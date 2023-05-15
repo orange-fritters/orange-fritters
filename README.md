@@ -6,7 +6,7 @@
 
 ## ❓ Resume
 
-#### [CHECK OUT MY RESUME](./mindong_resume.pdf) [🔗](https://drive.google.com/file/d/1Wl47kQXCe9j9zlymifcg2J8Y5_sbDFbe)
+#### [CHECK OUT MY RESUME](./mindong_resume.pdf) [🔗](https://drive.google.com/file/d/1AcQxzcxcl03J5mLFezCVrI1lUHAXYj0G)
 
 </div>
 <br>
