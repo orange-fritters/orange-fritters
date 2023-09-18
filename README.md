@@ -4,10 +4,6 @@
 
 👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills<br> <br>
 
-## ❓ Resume
-
-#### [CHECK OUT MY RESUME](./mindong_resume.pdf) [🔗](https://drive.google.com/file/d/1AcQxzcxcl03J5mLFezCVrI1lUHAXYj0G)
-
 </div>
 <br>
 
@@ -25,13 +21,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <!-- <a href="" target="_blank">
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
+  </a> -->
   <br>
+</p>
 <p align="center">
   <a href="https://pytorch.org/" target="_blank">
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
@@ -39,40 +33,47 @@
   <a href="https://www.tensorflow.org/?hl=ko" target="_blank">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
-  <a>
-    <img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <a href="https://numpy.org/">
-    <img alt="numpy" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
   <a href="https://pandas.pydata.org/">
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
   <br>
-  <p>
+</p>
+<p>
+  <a>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a>
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+  </a>
     <a>
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
-    <a>
-      <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    </a>
-    <a>
-      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    </a><br>
-  </p>
- <p>
-    <a>
-      <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    </a>
-    <a>
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
-    </a>
-    <a>
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-    </a>
-    <br>
+    <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  </a>
+   <a href="https://www.linux.org/" target="_blank">
+  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+</p>
+<p>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  </a>
+  <a>
+    <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </a>
+<a> 
+    <img alt="StyledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  </a>
+  <a>
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
+  <br>
+</p>
+<p>
+  <a>
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  </a>
+  <a>
+    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  </a>
   </p>
 </div>
 <p align="center">
@@ -97,7 +98,5 @@
 <!-- prettier-ignore-end -->
 
 </div>
-<br><br>
- <div align="center">
-
-<div align='center'>
+<br>
+<br>
