@@ -2,9 +2,9 @@
 
 ## 😇 Hi there
 
-👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills<br><br>
+👋 My name is Mindong Choi<br> 🏗️ SNU CEE & IMAI <br> 🥰 Into every field of AI <br> 🌱 AI generalist with web development skills
 
-<br>
+<be>
 <br>
 
 ## 📖 Career and Academic Experience
@@ -19,8 +19,7 @@
 
 <br>
 <br>
-
-
+ 
 ## 💻 Tech Stacks
 
 ### Languages
@@ -36,8 +35,6 @@
   </a>
 </p>
 
-<br>
-
 ### ML & DL Frameworks
 <p align="center">
   <a>
@@ -50,8 +47,6 @@
     <img alt="Tensorflow" src="https://img.shields.io/badge/huggingface-ffd21f?style=for-the-badge">
   </a>
 </p>
-
-<br>
 
 ### DB & Cloud & OS
 <p>
@@ -68,9 +63,6 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
 </p>
-
-<br>
-
 
 ### React
 <p>
@@ -91,8 +83,6 @@
   </a>
 </p>
 
-<br>
-
 ### App development
 
 <p align="center">
@@ -103,9 +93,6 @@
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </a>
 </p>
-
-<br>
-
 
 ### Backend
 
