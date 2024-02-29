@@ -40,9 +40,6 @@
   <a>
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   </a>
-  <a >
-    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>
   <a>
     <img alt="Tensorflow" src="https://img.shields.io/badge/huggingface-ffd21f?style=for-the-badge">
   </a>
@@ -52,9 +49,6 @@
 <p>
   <a>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
-  <a>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
   </a>
   <a>
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -99,9 +93,6 @@
 <p align="center">
   <a>
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  </a>
-  <a>
-    <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a>
 </div>
 </div>
